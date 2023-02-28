@@ -20,7 +20,9 @@ It was created just as a code sample and doesn't have a lot of features.
 ### Backend
 
 * [Express](https://expressjs.com/)
-* [Mongoose](https://www.mongodb.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [Mongoose](https://mongoosejs.com/)
+* [Typegoose](https://typegoose.github.io/typegoose/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [argon2](https://www.npmjs.com/package/argon2)
 * [busboy](https://www.npmjs.com/package/busboy)
